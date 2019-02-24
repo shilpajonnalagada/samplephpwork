@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>Testing maual process of devops</h1>
+<h1>First devops project - 2 stage (no build)</h1>
 
 <?php
 echo "version :Ver 2.0";
